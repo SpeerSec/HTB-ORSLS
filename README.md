@@ -1,4 +1,4 @@
-# HTB "Skill Learned" search tool
+# HTB "Skills Learned" search tool
 
 Just a random evening project. The python script contains a dictionary of all the "Skill Learned" from official HackTheBox machine writeups parsed from another script to go through the pdfs.
 
